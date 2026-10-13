@@ -194,17 +194,6 @@ Pass the finalized analysis and structured context to the writing stage.
 
 Follow the research rules in `cover-letter-prompt.md`.
 
-When web research is available, research the employer using reliable sources.
-
-Prioritize:
-
-- Official company mission, values, and strategic direction.
-- Relevant products, engineering work, technical initiatives, or recent developments.
-- Information directly relevant to the advertised position.
-- Connections to my verified experience or explicitly confirmed interests.
-
-Prefer official company websites, engineering blogs, product documentation, and recent announcements.
-
 Return the findings, source links, and a concise explanation of their relevance in the shared application context.
 
 Never invent a company initiative or a personal connection. Do not claim that I have used a product, read an article, or followed the company unless confirmed.
@@ -229,17 +218,7 @@ Generate the complete output required by the cover-letter prompt.
 
 ### Cover-letter requirements
 
-The writing stage must preserve the five-part structure and storytelling approach of `cover-letter-prompt.md`:
-
-1. **Introduction:** One or two sentences establishing who I am, what I want, and a specific reason the role or company interests me.
-2. **Transition and experience summary:** A concise, impact-focused achievement followed by the transition to the company.
-3. **Skill and qualification match:** Exactly two main evidence paragraphs, one for each of the two most important requirements. Each should follow the theme → context → action → impact structure.
-4. **Why this company:** A concise paragraph grounded in verified company research and a genuine, supported connection.
-5. **Conclusion:** A brief, confident conclusion expressing interest in discussing the role.
-
-Preserve the preferred storytelling style. Do not replace it with a generic qualification summary or a different cover-letter format.
-
-Use measurable achievements when verified. Use qualitative evidence when metrics are unavailable. Do not manufacture numbers to make a story more persuasive.
+The writing stage must preserve the five-part structure and storytelling approach of `cover-letter-prompt.md`
 
 For German working-student and junior positions, keep the letter concise and factual, mentioning availability and weekly hours only when relevant and confirmed.
 
