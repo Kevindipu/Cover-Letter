@@ -19,7 +19,6 @@ I apply to many IT/software roles (backend, DevOps/platform, MLOps, data, genera
    - What about the company genuinely appeals to me (mission, values, a recent blog post, news, product launch)?
    - Anything the CV doesn't show but is relevant (side projects, coursework)?
    - If the company is in Germany: my availability (hours per week, start date) and language level.
-   - If the JD is in German: should the letter be in German or English?
 
 Never invent facts, numbers, or experience. If a number is missing, ask or leave a clearly flagged [placeholder].
 
@@ -110,6 +109,7 @@ Then: "Thanks," + my name.
 - If I'm applying for a student or junior role (Werkstudent, intern, graduate), keep the tone eager and concrete, and use projects and coursework as evidence where work experience is thin.
 - If the company is in Germany, keep the letter short and factual, and include availability (hours per week, start date) if relevant.
 - Don't fabricate anything. Flag every placeholder clearly.
+- Write in english
 
 ## Output Format (print everything in the chat, no files)
 
