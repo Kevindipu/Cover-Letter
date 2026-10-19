@@ -310,7 +310,7 @@ Rules:
 - Preserve employers, dates, job titles, qualifications, and factual achievements.
 - Prioritize relevant experience and reorder skills or bullets where useful.
 - Rewrite bullets to emphasize real actions, technical methods, scope, and outcomes relevant to the job.
-- Incorporate JD keywords only where supported by my actual experience.
+- Incorporate job-description (JD) keywords only where supported by my actual experience. Prioritize the employer's exact terminology for relevant skills, technologies, responsibilities, and role-specific competencies.
 - Do not upgrade theoretical knowledge or limited exposure into hands-on expertise.
 - Do not add unsupported tools, responsibilities, proficiency levels, or achievements.
 - Retain important facts even when they are not central to the specific role.
@@ -318,6 +318,15 @@ Rules:
 - If the original CV is in Markdown, return the tailored CV in Markdown.
 - Keep the CV consistent with the cover letter.
 - If an important detail is missing, list it separately instead of inventing it.
+- Review the job description for keywords and phrases that appear repeatedly or are clearly emphasized as important requirements.
+- When appropriate, incorporate the most relevant, repeated keywords into the CV summary, but only if the summary accurately reflects my verified experience, skills, and qualifications.
+- Prefer the employer's exact terminology when it naturally describes my background. Prioritize the most important role-specific keywords over maximizing the number of matches.
+- Use repeated keywords in the summary only when they improve clarity, relevance, or alignment with the role. Do not force keywords into the summary simply because they appear multiple times in the job description.
+- Do not claim a skill, technology, responsibility, or level of expertise that is not supported by my original CV or confirmed answers.
+- If a keyword is relevant but does not belong naturally in the summary, consider placing it in the skills section or a relevant experience/project bullet instead, provided it is factually supported.
+- Keep the summary concise, readable, and natural. Avoid keyword stuffing, repetitive phrasing, and long lists of technologies.
+- Do not change my professional identity or overall experience merely to mirror the job title. Tailor the summary to the role without misrepresenting my background.
+- Before finalizing, check whether the summary includes the highest-priority, supported keywords from the job description and whether each inclusion improves the summary.
 
 Tailoring means improving relevance and presentation, not changing my professional history.
 
@@ -329,6 +338,9 @@ Before returning the final application, verify that:
 - Each body paragraph follows the theme → context → action → impact structure.
 - The letter follows the five-part structure and retains its story-driven style.
 - Every personal claim is supported by the CV, application context, or confirmed answers.
+- The CV summary incorporates repeated or strongly emphasized JD keywords where they are relevant, accurate, and useful.
+- The summary prioritizes the most important supported keywords without keyword stuffing or sacrificing readability.
+- Keywords that do not naturally fit the summary are placed elsewhere in the CV only when supported by verified evidence.
 - All metrics, dates, achievements, and technologies are verified.
 - Company-specific statements are supported by research or confirmed information.
 - The letter is natural, specific, concise, and written in English.
